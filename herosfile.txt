@@ -1,0 +1,1 @@
+{"name": "jhon", "race": "1", "gender": "m", "level": 0, "exp_for_next_level": 1000, "current_exp": 0}{"name": "daniel", "race": "2", "gender": "f", "level": 0, "exp_for_next_level": 1000, "current_exp": 0}
